@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SchoolHub</string>
+    <string name="et_school_key">School key</string>
+    <string name="b_submit">Submit</string>
+    <string name="channel1_notification_title">You\'re following %1$s</string>
+    <string name="channel1_notification_text">%1$s, %2$s</string>
+    <string name="iv_schoolhub">No notifications yet</string>
+    <string name="tv_no_notifications_yet">No notifications yet</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="channel2_notification_title">%1$s</string>
+    <string name="channel2_notification_text">%1$s</string>
+    <string name="channel3_notification_title">%1$s</string>
+    <string name="channel3_notification_text">%1$s</string>
+    <string name="tv_title">tv_title</string>
+    <string name="tv_date">tv_date</string>
+    <string name="tv_body">tv_body</string>
+    <string name="school_key">School key</string>
+    <string name="tv_school_key">tv_school_key</string>
+    <string name="btn_share">Share</string>
+    <string name="title">SchoolHub</string>
+    <string name="subject">%1$s - %2$s, %3$s</string>
+    <string name="body">School key: %1$s</string>
+    <string name="school_name">School name</string>
+    <string name="tv_school_name">tv_school_name</string>
+    <string name="school_address_city">School address</string>
+    <string name="tv_school_address_city">%1$s, %2$s</string>
+</resources>

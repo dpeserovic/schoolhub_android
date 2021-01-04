@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/schoolInfo"
+        android:title="School info"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/markAllAsRead"
+        android:title="Mark all as read"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/markAllAsUnread"
+        android:title="Mark all as unread"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/unfollowSchool"
+        android:title="Unfollow school"
+        app:showAsAction="never" />
+
+</menu>
